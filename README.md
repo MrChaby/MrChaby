@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **[WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)**
 
-- 📫 How to reach me > **[WhatsApp](😔💔)** <
+- 📫 How to reach me > **[😶](😔💔)** <
 
 - 💫 **I am only a sad developer.. 🌆**
 

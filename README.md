@@ -1,5 +1,5 @@
 ##
-<h1 align="center"><b>🍭 Hii Gays I'm MrChaby 🙄</b></h1> 
+<h1 align="center"><b>🍭 Hii Guys I'm MrChaby 🙄</b></h1> 
 
 ## <h1 align="center"> (⌐■_■)</h1>
 
@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **[MsJessika](https://github.com/MrChaby/Jessi)**
 
-- 🌱 I’m currently learning **TypeScript , HTML , Database**
+- 🌱 I’m currently learning **Python , Java , node js , HTML**
 
 - 👯 I’m looking to collaborate on **[WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)**
 

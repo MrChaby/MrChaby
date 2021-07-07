@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Python , Java , node js , HTML**
 
-- 👯 I’m looking to collaborate on **[WhatsAsenaDuplicated](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)**
+- 👯 I’m looking to collaborate on **[WhatsAsena](https://github.com/yusufusta/WhatsAsena)**
 
 - 📫 How to reach me > **[😶](😔💔)** <
 

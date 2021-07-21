@@ -5,6 +5,7 @@
 :page_with_curl: I'm currently learning:
 - nodejs
 - Javascript
+- Html
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 

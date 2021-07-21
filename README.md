@@ -1,4 +1,5 @@
-## 👋 Hello, I'm [BuDy X](https://instagram.com/pr_bathdimuthu) simple developer😊.
+----
+## 👋 Hello, I'm [BuDy X](https://instagram.com/pr_bathdimuthu) simple developer 😊.
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
@@ -16,3 +17,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=MrChaby&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChaby&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&repo=Jessi&theme=dark)
+
+----

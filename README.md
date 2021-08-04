@@ -17,6 +17,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MrChaby&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChaby&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&repo=Jessi&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&repo=Jessi&theme=nightowl)
 
 ----

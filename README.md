@@ -15,7 +15,7 @@
 #### 🚀 Contact Us Me:
 <a href="https://wa.me/17864802647" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MrChaby&show_icons=true&theme=white)
+![github stats](https://github-readme-stats.vercel.app/api?username=MrChaby&show_icons=true&theme=moonlight glow)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChaby&layout=compact&theme=red)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&repo=Jessi&theme=white)
 

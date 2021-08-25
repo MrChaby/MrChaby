@@ -45,5 +45,15 @@
 
 #### - Contact my projects contributors:
 <a href="https://wa.me/18077890151" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a> <a href="https://github.com/bot-lern/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="bot-lern" width="40" height="40"/> </a>
+ 
+  <div align="center">
+ <details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/MrChaby?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&theme=highcontrast&repo=Stefanie)](https://github.com/MrChaby/Stefanie)
+
+</details>
   
 ----

@@ -44,7 +44,7 @@
 <a href="https://wa.me/17864802647" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 #### - Contact my projects contributors:
-<a href="https://wa.me/18077890151" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a> <a href="https://github.com/bot-lern/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="bot-lern" width="40" height="40"/> </a>
+<a href="https://github.com/bot-lern/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="bot-lern" width="40" height="40"/> </a> <a href="https://wa.me/18077890151" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
  
   <div align="center">
  <details>

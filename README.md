@@ -21,6 +21,15 @@
 
   
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+<p align="center">
+    <a href="https://github.com/TOXIC-DEVIL">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=👋++Welcome+To+My+Profile...+I+Am+Buddy+x+🙄🏷"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
 
 ```
 📃  I'm currently learning:

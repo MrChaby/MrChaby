@@ -50,7 +50,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&repo=Jessi&theme=nightowl)
 
   #### 🚀 Contact Us Me:
-<a href="https://wa.me/17864802647" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/380944028752" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
   <div align="center">
@@ -59,7 +59,7 @@
 
 ![Metrics](https://metrics.lecoq.io/MrChaby?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&theme=highcontrast&repo=Stefanie)](https://github.com/MrChaby/Stefanie)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=MrChaby&theme=highcontrast&repo=Jessi-4r-whatsAlexa)](https://github.com/MrChaby/Jessi-4r-whatsAlexa)
 
 </details>
   

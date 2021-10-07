@@ -1,6 +1,6 @@
 ----
 
-  ![My card name](https://cardivo.vercel.app/api?name=Budy%20X&description=Hi,%20i%27m%20a%20%20%20simple%20developer%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/85840062?v=4&backgroundColor=%23ecf0f1&github=MrChaby&pattern=leaf&colorPattern=%23eaeaea)
+  ![My card name](https://cardivo.vercel.app/api?name=Prebath%20Senevirathna&description=Hi,%20i%27m%20a%20%20%20simple%20developer%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/85840062?v=4&backgroundColor=%23ecf0f1&github=MrChaby&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 
 ##

@@ -24,7 +24,7 @@
 <p align="center">
     <a href="https://github.com/TOXIC-DEVIL">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=👋++Welcome+To+My+Profile...+I+Am+Budy+x+🙄🏷"
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=👋++Welcome+To+My+Profile...+I+Am+MrChaby+🙄🏷"
             alt="Typing SVG"
         />
     </a>
